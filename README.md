@@ -1,6 +1,6 @@
 # Número Secreto
 
-Atividade realizada durante o curso da Alura de Lógica de programação, com foco no JavaScript, onde o HTML e CSS foram disponibilizados pela Alura e o JavaScript desenvolvido ao longo do curso.
+Atividade realizada durante o curso da Alura de lógica de programação, com foco no JavaScript, onde o HTML e CSS foram disponibilizados pela Alura e o JavaScript desenvolvido ao longo do curso.
 
 ## 🔨 Aprendizado adquirido ao longo do curso do projeto
 
