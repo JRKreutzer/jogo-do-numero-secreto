@@ -4,8 +4,6 @@ Atividade realizada durante o curso da Alura de Lógica de programação, com fo
 
 ## 🔨 Aprendizado adquirido ao longo do curso do projeto
 
-- Preparamos o ambiente de desenvolvimento com a instalação do Visual Studio Code para criar programas utilizando a linguagem JavaScript
-- Entendemos o conceito de variável para guardar informações, como números ou palavras, para usar mais tarde no nosso programa;
 - Usamos o `alert` para exibir uma mensagem passando algumas instruções sobre o programa e usamos o prompt para interagir com a pessoa permitindo inserir um valor e armazenando em uma variável;
 - Criamos um `if`, que é uma instrução em programação que permite ao computador tomar decisões ao executar um bloco de código apenas se uma condição específica for verdadeira.
 - Utilizamos o console para testar e depurar nosso código, exibindo mensagens e valores durante a execução do programa;
@@ -18,6 +16,10 @@ Atividade realizada durante o curso da Alura de Lógica de programação, com fo
 - Aprendemos a evitar código duplicado utilizando estratégias para exibir a palavra "tentativas" no singular ou plural, dependendo do número de tentativas realizadas;
 - Analisamos a documentação e encontrar informações relevantes para o desenvolvimento do nosso programa;
 - Descobrimos como utilizar a função Math.random() para gerar um número aleatório, permitindo a criação de desafios e jogos mais dinâmicos e variados.
+- Aprendemos a manipular o conteúdo dos elementos HTML, como o H1 e o parágrafo (p), utilizando JavaScript para alterar dinamicamente o texto exibido na página;
+- Vimos como os parâmetros e retornos são importantes para a comunicação entre funções e o restante do programa.
+- Vimos a importância de consultar a documentação da linguagem e das bibliotecas utilizadas no desenvolvimento do programa.
+- Aprendemos a melhorar o código existente, tornando-o mais eficiente e legível.
   
 ## ✔️ Técnicas e tecnologias utilizadas
 
